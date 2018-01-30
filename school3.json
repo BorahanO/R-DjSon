@@ -1,0 +1,14 @@
+{"school":[
+  { "school":"MediaCollege",
+    "Category":"MBO",
+    "nr_students":"20190",
+    "courses":
+      { "MD":"MediaDevelopment",
+        "GD":"GameDevelopment"}},
+  { "school":"PascalZuid",
+    "Category":"VMBO",
+    "nr_students":"1996",
+    "courses":
+      { "Natuurkunde":"Natuurkunde",
+        "Economie":"Economie"}}
+]}
